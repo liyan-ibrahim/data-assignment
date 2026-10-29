@@ -1,0 +1,25 @@
+location,discovery,category,time_of_day,description,story,asset
+Glass Dunes,Desert glass,Geology,Day,A smooth fragment of glass lies among the sand.,Sand can change form under extraordinary heat. What else might this place become?,desert_glass.png
+Glass Dunes,Ripple marks,Geology,Dawn,Parallel ridges stretch across the dune surface.,"The wind has been writing here all night. By morning, its words will change.",ripple_marks.png
+Glass Dunes,Beetle tracks,Wildlife,Dawn,Tiny paired tracks cross an otherwise untouched slope.,Something small has crossed this enormous place without asking to be seen.,beetle_tracks.png
+Glass Dunes,Buried seed,Botany,Dusk,A seed rests just beneath the dry surface.,It has not disappeared. It is waiting for the right moment.,buried_seed.png
+Glass Dunes,Wind-polished stone,Geology,Day,One side of a small stone is worn smooth by blowing sand.,Change can happen so slowly that no one notices until a new shape remains.,polished_stone.png
+Glass Dunes,False horizon,Atmosphere,Day,Shimmering air makes the far-off ground resemble water.,"From a distance, the desert offers a different version of itself.",false_horizon.png
+Dry Riverbed,Ancient water channel,Geology,Day,A winding channel cuts through dry earth.,"This place remembers the shape of water, even when none is visible.",water_channel.png
+Dry Riverbed,Mud cracks,Geology,Day,A web of cracks covers the dried riverbed.,The ground has opened into patterns left by water and sun.,mud_cracks.png
+Dry Riverbed,Smooth pebble,Geology,Dawn,A rounded pebble sits among rough stones.,Water once carried this stone farther than it could ever travel alone.,smooth_pebble.png
+Dry Riverbed,Flash-flood debris,Ecology,Dusk,Twigs and leaves are caught high in a narrow bend.,The quiet channel can change suddenly. Its edges hold evidence of a passing flood.,flood_debris.png
+Dry Riverbed,Salt trace,Geology,Day,A pale outline remains where a shallow pool once dried.,"The water left, but not without a mark.",salt_trace.png
+Dry Riverbed,Animal crossing,Wildlife,Dawn,Different footprints overlap in the sand near the channel.,Even an empty riverbed can be a meeting place.,animal_crossing.png
+Moon Hollow,Night-blooming flower,Botany,Night,A pale desert flower opens after sunset.,Not everything reveals itself in daylight.,night_flower.png
+Moon Hollow,Moth visitor,Wildlife,Night,A moth hovers near a flower in the cool evening air.,"In the dark, a quiet exchange takes place between flower and visitor.",moth.png
+Moon Hollow,Cooled rock,Geology,Dusk,A stone that held the daytime heat now feels cool.,"The desert is not one temperature, one mood, or one moment.",cooled_rock.png
+Moon Hollow,Moon shadow,Atmosphere,Night,A tall rock casts a long shadow under a bright moon.,A familiar landmark becomes unfamiliar when the light changes.,moon_shadow.png
+Moon Hollow,Burrowing entrance,Wildlife,Dusk,A small opening leads beneath the sand.,Aboveground is only part of the desert. Another world begins below.,burrow.png
+Moon Hollow,Night sky,Atmosphere,Night,Stars crowd the sky above the hollow.,"Without the daylight, the desert reveals a different kind of distance.",night_sky.png
+Whisper Basin,Wind-carved arch,Geology,Day,A narrow stone opening has been shaped by erosion.,"The stone did not choose this shape, but it holds the sky within it.",stone_arch.png
+Whisper Basin,Echoing canyon,Atmosphere,Dusk,A voice returns in fragments between the rock walls.,"The canyon repeats a sound, but never quite the way it arrived.",echo_canyon.png
+Whisper Basin,Lichen patch,Ecology,Dawn,A textured patch of lichen clings to sheltered rock.,Life can make a home in the smallest interruption of bare stone.,lichen.png
+Whisper Basin,Fossil shell,Geology,Day,The outline of a shell is preserved in sedimentary rock.,"Long before these cliffs, this ground was part of another world.",fossil_shell.png
+Whisper Basin,Rockfall,Geology,Dusk,Fresh fragments collect below a weathered cliff.,"Even the mountains are moving, though they seem perfectly still.",rockfall.png
+Whisper Basin,Hidden spring,Ecology,Dawn,A small patch of green marks moisture near the rock wall.,"Where water lingers, an entire neighborhood of life can gather.",hidden_spring.png
