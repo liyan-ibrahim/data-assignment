@@ -1,9 +1,20 @@
-A small interactive desert exploration game I built in Python using Jupyter Notebook.
-</br> 
-The idea is to explore the desert at different times of day and discover the things that often go unnoticed. Players move through two locations, Moon Hollow and Glass Dunes, uncovering hidden objects, learning their stories, and collecting discoveries to unlock the next chapter.
-</br>
 
-Click Start Game and explore.
+# A Desert in Two Worlds
 
-The project is an experiment in using data, generative audio, and interactive storytelling to make the desert feel a little more alive for our TV Show! 
-</br>
+A small interactive desert exploration game I made using Python and Jupyter Notebook.
+
+The idea is to explore the desert at different times of day and discover things that might otherwise go unnoticed. Players collect discoveries, learn their stories, and unlock new locations.
+
+I have two chapters so far: Moon Hollow and Glass Dunes, each with its own discoveries and soundtrack.
+
+All the visual assets were generated using Adobe Firefly Boards.
+
+## How to Run
+
+All you need to do is install the dependencies from `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
+Then open `Game.ipynb`, run all the cells, and click **Start Game**.
